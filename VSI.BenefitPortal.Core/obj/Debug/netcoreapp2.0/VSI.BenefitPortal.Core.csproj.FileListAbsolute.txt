@@ -1,0 +1,9 @@
+C:\Users\anguyen\appdata\local\microsoft\visualstudio\15.0_216087e0\settings\Projects\VSI.BenefitPortal\VSI.BenefitPortal.Core\bin\Debug\netcoreapp2.0\VSI.BenefitPortal.Core.deps.json
+C:\Users\anguyen\appdata\local\microsoft\visualstudio\15.0_216087e0\settings\Projects\VSI.BenefitPortal\VSI.BenefitPortal.Core\bin\Debug\netcoreapp2.0\VSI.BenefitPortal.Core.dll
+C:\Users\anguyen\appdata\local\microsoft\visualstudio\15.0_216087e0\settings\Projects\VSI.BenefitPortal\VSI.BenefitPortal.Core\bin\Debug\netcoreapp2.0\VSI.BenefitPortal.Core.pdb
+C:\Users\anguyen\appdata\local\microsoft\visualstudio\15.0_216087e0\settings\Projects\VSI.BenefitPortal\VSI.BenefitPortal.Core\obj\Debug\netcoreapp2.0\VSI.BenefitPortal.Core.csproj.CoreCompileInputs.cache
+C:\Users\anguyen\appdata\local\microsoft\visualstudio\15.0_216087e0\settings\Projects\VSI.BenefitPortal\VSI.BenefitPortal.Core\obj\Debug\netcoreapp2.0\VSI.BenefitPortal.Core.AssemblyInfoInputs.cache
+C:\Users\anguyen\appdata\local\microsoft\visualstudio\15.0_216087e0\settings\Projects\VSI.BenefitPortal\VSI.BenefitPortal.Core\obj\Debug\netcoreapp2.0\VSI.BenefitPortal.Core.AssemblyInfo.cs
+C:\Users\anguyen\appdata\local\microsoft\visualstudio\15.0_216087e0\settings\Projects\VSI.BenefitPortal\VSI.BenefitPortal.Core\obj\Debug\netcoreapp2.0\VSI.BenefitPortal.Core.dll
+C:\Users\anguyen\appdata\local\microsoft\visualstudio\15.0_216087e0\settings\Projects\VSI.BenefitPortal\VSI.BenefitPortal.Core\obj\Debug\netcoreapp2.0\VSI.BenefitPortal.Core.pdb
+C:\Users\anguyen\appdata\local\microsoft\visualstudio\15.0_216087e0\settings\Projects\VSI.BenefitPortal\VSI.BenefitPortal.Core\obj\Debug\netcoreapp2.0\VSI.BenefitPortal.Core.csprojResolveAssemblyReference.cache
